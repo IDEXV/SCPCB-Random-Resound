@@ -21,4 +21,4 @@ Half of the game. MTF, Class D, Intro, Guards, etc. now have new sounds, and voi
 
 ## Will there be a sequel?
 
-Yes. HL2: Random Adventure is the new, upcoming mod. It will require Half-Life 2.
+Yes, maybe. 
