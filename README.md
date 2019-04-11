@@ -1,5 +1,5 @@
 # SCPCB: Random Resound
-SCPCB: Random Resound is a resound pack for SCP Containment Breach game, made by Undertow Games. This mod consists of memey, random and ear rapey sounds, made by IDEXV. Some of the sounds are illogical, same for the voices. There is no point for the mod, because it was created for a good laugh. You can still complete the game, because nothing was changed, except for the sounds.
+SCPCB: Random Resound is a resound pack for SCP Containment Breach game, made by Undertow Games. This mod consists of memey, random and ear rapey sounds, made by IDEXV. Some of the sounds are illogical, same for the voices. You can still complete the game, because nothing was changed, except for the sounds.
 
 This GitHub page is used for pre-releases, issue tracking, projects for upcoming versions. Check this page regularly, if you want to see some content, that is not available for the public. For latest releases, check ModDB, or GitHub.
 
@@ -21,4 +21,4 @@ Half of the game. MTF, Class D, Intro, Guards, etc. now have new sounds, and voi
 
 ## Will there be a sequel?
 
-Yes. HL2: Random Adventure is the new, upcoming mod. It will require Half-Life 2 from Steam, or somewhere else.
+Yes. HL2: Random Adventure is the new, upcoming mod. It will require Half-Life 2.
