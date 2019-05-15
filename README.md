@@ -21,4 +21,8 @@ Half of the game. MTF, Class D, Intro, Guards, etc. now have new sounds, and voi
 
 ## Will there be a sequel?
 
-Yes, maybe. 
+Someday...
+
+## Notice!
+
+As of 15.05.2019, SCPCB: Random Resound is no longer supported.
